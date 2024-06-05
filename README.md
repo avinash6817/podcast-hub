@@ -25,7 +25,7 @@ A AI platform that enables users to create, discover, and enjoy podcasts with ad
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Next.js
-- TypeScript
+- JavaScript/TypeScript
 - Convex
 - OpenAI
 - Clerk
